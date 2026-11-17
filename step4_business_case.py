@@ -36,7 +36,7 @@ TRADING_FEE = 0.07         # optimiser / route-to-market fee: share of revenue
 # NOT modelled by me, so it starts at 0. KYOS (Feb 2025) estimates 2026 NL revenue
 # for a 2h battery at ~105k/MW day-ahead vs ~308k/MW intraday + imbalance (no grid
 # fees, no degradation). Use this to test scenarios, e.g. 0.05 = EUR 50k/MW/yr.
-INTRADAY_UPLIFT = 0.1446
+INTRADAY_UPLIFT = 0.0
 
 # --- 2. Capital cost (capex), EUR million ----------------------------------
 # Battery system incl. PCS, MV transformers, civil works (turnkey, EUR per kWh).
