@@ -16,6 +16,8 @@ Hollandse Kust Noord landstation (Velsen, the Netherlands).
 | `step4_business_case.py` | First business case: NPV, IRR, payback, firm vs TDTR grid contract |
 | `step5_business_case_final.py` | Final business case with capex built from the engineered equipment, scenarios, break-even uplift and tornado chart |
 
+![Average day-ahead price by hour, 2025](figures/avgpricehourly.png)
+
 ## Key results (4h design, TDTR contract)
 
 - Day-ahead arbitrage: **€131k/MW/yr** (2h: €83k/MW, matching Modo Energy's 2025 figure)
